@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>OpenCvSharp4.runtime.osx_arm64</id>
-        <version>4.8.1</version>
+        <version>4.8.1-rc</version>
         <authors>Grinay</authors>
         <description>Pre-built OpenCV runtime for Apple Silicon, fully packaged with dependencies for use with OpenCvSharp4 on macOS. No external dependencies required, offering native performance on M1 chips or later. See GitHub at https://github.com/grinay/osx_arm_builds for more info.</description>
         <projectUrl>https://github.com/grinay/osx_arm_builds</projectUrl>

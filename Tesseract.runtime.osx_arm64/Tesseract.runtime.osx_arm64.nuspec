@@ -2,7 +2,7 @@
 <package>
     <metadata>
         <id>Tesseract.runtime.osx_arm64</id>
-        <version>5.3.2</version>
+        <version>5.3.2-rc</version>
         <authors>Grinay</authors>
         <description>Pre-built Tesseract OCR and Leptonica runtime for macOS Apple Silicon (arm64), packaged with all dependencies but excluding language data for custom language support. Ideal for efficient OCR integration in .NET applications on M1 chips or later.</description>
         <projectUrl>https://github.com/grinay/osx_arm_builds</projectUrl>
