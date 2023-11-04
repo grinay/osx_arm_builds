@@ -1,0 +1,1 @@
+Simple wrapper for QPDF which support JSON command call, bundle includes native libs fox OSX and LINUX

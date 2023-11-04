@@ -1,2 +1,9 @@
 **/.idea
 **/.cache
+
+#ignore bin and obj
+**/bin
+**/obj
+
+#ignor all .nupkg files
+**/*.nupkg 
