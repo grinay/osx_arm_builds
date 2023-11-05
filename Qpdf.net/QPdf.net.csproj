@@ -2,7 +2,7 @@
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
         <PackageId>Qpdf.net</PackageId>
-        <Version>11.6.3.051123</Version>
+        <Version>11.6.3.061123</Version>
         <Authors>Grinay</Authors>
         <Description>Simple wrapper for QPDF which support JSON command call, bundle includes native libs for OSX (Apple silicon) and LINUX(x64)</Description>
         <PackageProjectUrl>https://github.com/grinay/osx_arm_builds</PackageProjectUrl>
