@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>Libgdiplus.rntime.osx_arm64</id>
+        <version>6.1.2</version>
+        <authors>Grinay</authors>
+        <description>Mono-libgdiplus  binaries bundle for osx_arm64</description>
+        <projectUrl>https://github.com/grinay/osx_arm_builds</projectUrl>
+        <readme>README.md</readme>
+    </metadata>
+    <files>
+        <file src="runtimes/**" target="runtimes"/>
+        <file src="README.md" target=""/>
+    </files>
+</package>
